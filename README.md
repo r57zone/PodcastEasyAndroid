@@ -10,7 +10,6 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 
 ## Features
 - Support for the following interface languages: English, Russian, Chinese (Simplified and Traditional), Spanish, Portuguese (Brazilian), French, German, Japanese, Arabic, Italian, Korean and Turkish.
-
 <p>
   <img src="https://github.com/user-attachments/assets/8c03c9b8-d154-466f-b9c4-6ea60278d537" alt="flag-united-kingdom">
   <img src="https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png" alt="flag-russia">
