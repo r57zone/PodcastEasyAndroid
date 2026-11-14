@@ -9,7 +9,7 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 [![](https://github.com/user-attachments/assets/75dbad34-13f9-4d98-b640-b718a56360b6)](https://github.com/user-attachments/assets/a4d160d4-bd38-4e4c-91fb-e7dfa4ad1ce3)
 
 ## Features
-• Support for the following interface languages: English, Russian, Chinese (Simplified and Traditional), Spanish, Portuguese (Brazilian), French, German, Japanese, Arabic, Italian, Korean and Turkish.
+- Support for the following interface languages: English, Russian, Chinese (Simplified and Traditional), Spanish, Portuguese (Brazilian), French, German, Japanese, Arabic, Italian, Korean and Turkish.
 
 ![flag-united-kingdom](https://github.com/user-attachments/assets/8c03c9b8-d154-466f-b9c4-6ea60278d537)
 ![flag-russia](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)
@@ -28,20 +28,20 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 ![flag-turkey](https://github.com/user-attachments/assets/e18e5455-7321-4632-bf3f-19921b42a7ce)
 
 
-• Automatically saves playback progress, allowing you to resume right where you left off.
+- Automatically saves playback progress, allowing you to resume right where you left off.
 
 
-• Adjustable playback speed.
+- Adjustable playback speed.
 
 
-• Bookmark support. Create bookmarks directly in the app or import your own. Bookmarks are stored in plain text (TXT) files, with each line containing a timestamp and a title in the `Time - Title` format. For example: `19:47 - Element 115`.
+- Bookmark support. Create bookmarks directly in the app or import your own. Bookmarks are stored in plain text (TXT) files, with each line containing a timestamp and a title in the `Time - Title` format. For example: `19:47 - Element 115`.
   The text file name must match the name of the corresponding audio or video file.
 
 
-• Built-in video player for video podcasts. If the video doesn't require your constant attention, you can listen to the podcast in the background and tap the video button whenever you want to see what's happening. Double-tap to enlarge the video, and swipe to move it around the screen.
+- Built-in video player for video podcasts. If the video doesn't require your constant attention, you can listen to the podcast in the background and tap the video button whenever you want to see what's happening. Double-tap to enlarge the video, and swipe to move it around the screen.
 
 
-• Sleep timer to stop playback automatically.
+- Sleep timer to stop playback automatically.
 
 ## Download
 >Version for Android 9+.
