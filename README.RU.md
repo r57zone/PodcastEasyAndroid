@@ -47,5 +47,8 @@
 
 **[Загрузить](https://github.com/r57zone/PodcastEasyAndroid/releases)**
 
+## Благодарности
+- [Claude AI](https://claude.ai) - за помощь в написании.
+
 ## Обратная связь
 `r57zone@gmail.com`

@@ -48,5 +48,8 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 
 **[Download](https://github.com/r57zone/PodcastEasyAndroid/releases)**
 
+## Acknowledgements
+- [Claude AI](https://claude.ai) – for assistance with development.
+
 ## Feedback
 `r57zone@gmail.com`
