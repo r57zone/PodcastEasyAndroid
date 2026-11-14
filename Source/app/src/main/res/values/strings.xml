@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Podcast Easy</string>
+    <string name="app_title" translatable="false">Podcast Easy</string>
+
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="now_playing">Now playing</string>
+    <string name="delete">Delete</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="empty_folder">Folder is empty</string>
+    <string name="no_access">No access to files. Open settings and grant permission.</string>
+    <string name="files_count">Files: %d</string>
+    <string name="files_count_pct">Files: %1$d, listened: %2$d%%</string>
+
+    <string name="delete_title">Delete file?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_failed">Could not delete the file</string>
+    <string name="open_failed">Could not open: %s</string>
+
+    <string name="video_on">Video: on</string>
+    <string name="video_off">Video: off</string>
+    <string name="sleep_off">Off</string>
+    <string name="sleep_min">%d min</string>
+    <string name="sleep_hour">1 hour</string>
+
+    <string name="podcasts_folder">Podcasts folder</string>
+    <string name="choose_folder">Choose folder</string>
+    <string name="reset_folder">Reset to Podcasts</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="grant_access">Grant access to files</string>
+    <string name="language">Language</string>
+    <string name="lang_auto">Auto</string>
+    <string name="autoplay">Autoplay after opening</string>
+    <string name="play_next">Play next file from the folder</string>
+    <string name="export_progress">Export progress (XML)</string>
+    <string name="import_progress">Import progress (XML)</string>
+    <string name="export_done">Done</string>
+    <string name="import_done">Done</string>
+    <string name="import_error">Could not read the file</string>
+
+    <string name="notif_channel">Playback</string>
+    <string name="act_rew">-10 s</string>
+    <string name="act_fwd">+10 s</string>
+    <string name="act_play">Play</string>
+    <string name="act_pause">Pause</string>
+    <string name="theme">Theme</string>
+    <string name="theme_auto">Auto</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="last_update">Last update: %s</string>
+    <string name="volume">Volume</string>
+    <string name="bitrate_fmt">%d kbit/s</string>
+    <string name="auto_video">Show video automatically</string>
+    <string name="cover_file">Show file cover</string>
+    <string name="hide_bookmarks">Close list after jumping to a bookmark</string>
+    <string name="bookmark_add">Add bookmark</string>
+    <string name="bookmark_list">Bookmarks</string>
+    <string name="bookmark_name">Name:</string>
+    <string name="bookmark_empty">No bookmarks</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_edit">Edit bookmark</string>
+    <string name="bookmark_save_failed">Could not save bookmarks</string>
+    <string name="delete_bookmarks">Delete bookmarks along with the file?</string>
+    <string name="ok">OK</string>
+    <string name="always_delete_bookmarks">Always delete bookmarks with the file</string>
+    <string name="update_date" translatable="false">15.11.26</string>
+    <string name="delete_folder_title">Delete folder with all its contents?</string>
+    <string name="selected_count">Selected: %d</string>
+    <string name="rename">Rename</string>
+    <string name="more">More</string>
+    <string name="rename_failed">Could not rename</string>
+    <string name="rename_exists">That name already exists</string>
+    <string name="delete_selected_title">Delete selected (%d)?</string>
+    <string name="delete_folders_note">Folders will be deleted with all their contents.</string>
+    <string name="delete_bookmarks_many">Delete bookmarks together with the files?</string>
+    <string name="link_donate">Donate</string>
+    <string name="link_more">More projects</string>
+    <string name="sound">Sound</string>
+    <string name="sound_mono">Mono</string>
+    <string name="sound_stereo">Stereo</string>
+    <string name="mono_hint">Find “Mono audio” in Accessibility settings</string>
+</resources>

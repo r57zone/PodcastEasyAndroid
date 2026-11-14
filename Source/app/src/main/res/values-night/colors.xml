@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- тёмная тема (палитра из darktheme.css) -->
+    <color name="bg">#FF2A3035</color>          <!-- фон -->
+    <color name="bar">#FF202329</color>         <!-- action-панель -->
+    <color name="bar_mid">#FF252A2F</color>      <!-- между фоном и action bar -->
+    <color name="fg">#FFEDEDEF</color>          <!-- шрифты -->
+    <color name="fg_faint">#FF5B6066</color>    <!-- формат и битрейт: ещё приглушённее (темнее) -->
+    <color name="fg_dim">#FF8D9298</color>      <!-- вспомогательные надписи -->
+    <color name="divider">#FF3A404A</color>     <!-- разделители между файлами -->
+    <color name="btn">#FF919191</color>         <!-- кнопки -->
+    <color name="icon_top">#FFEEEEEE</color>    <!-- иконки в верхней панели -->
+    <color name="folder">#FF919191</color>
+    <color name="accent">#FF64B5F6</color>
+    <color name="accent_dark">#FF64B5F6</color>
+    <color name="swipe_delete">#FFE04444</color>
+    <color name="ripple">#33FFFFFF</color>
+</resources>

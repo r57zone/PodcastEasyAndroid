@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- светлая тема -->
+    <color name="bg">#FFFFFFFF</color>          <!-- фон -->
+    <color name="bar">#e7e7e7</color>         <!-- action-панель -->
+    <color name="bar_mid">#FFF7F7F7</color>      <!-- между фоном и action bar: плашки названия / «Записей» -->
+    <color name="fg">#FF222222</color>          <!-- шрифты -->
+    <color name="fg_faint">#FFA6A6A6</color>    <!-- формат и битрейт: ещё приглушённее (светлее) -->
+    <color name="fg_dim">#FF777777</color>      <!-- вспомогательные надписи -->
+    <color name="divider">#FFEDEDED</color>     <!-- разделители между файлами -->
+    <color name="btn">#FF919191</color>         <!-- кнопки -->
+    <color name="icon_top">#FF444444</color>    <!-- иконки в верхней панели -->
+    <color name="folder">#FF919191</color>      <!-- иконка папки (цвет не был задан — пока как у кнопок) -->
+    <color name="accent">#FF2196F3</color>      <!-- акцент: ползунки, переключатели, ссылки -->
+    <color name="accent_dark">#FF64B5F6</color>
+    <color name="swipe_delete">#FFE04444</color>
+    <color name="ripple">#33000000</color>
+</resources>
