@@ -2,7 +2,7 @@
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/PodcastEasyAndroid/blob/master/README.RU.md) 
 ← Choose language | Выберите язык
 
-# PodcastEasy Android
+# Podcast Easy Android
 An Android app for playing podcasts and books in audio and video formats. Simply place any audio or video files in the `Podcasts` directory and enjoy listening to or watching your content.
 
 [![](https://github.com/user-attachments/assets/4260acdb-3aed-498e-acde-430d472d2b30)](https://github.com/user-attachments/assets/d0c905f1-82e7-49a7-94de-ec7942e3fc40)

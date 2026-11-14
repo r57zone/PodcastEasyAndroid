@@ -1,6 +1,6 @@
 [![EN](https://user-images.githubusercontent.com/9499881/33184537-7be87e86-d096-11e7-89bb-f3286f752bc6.png)](https://github.com/r57zone/PodcastEasyAndroid/) 
 [![RU](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)](https://github.com/r57zone/PodcastEasyAndroid/blob/master/README.RU.md) 
-# PodcastEasy Android
+# Podcast Easy Android
 Приложение для прослушивания подкастов и книг в аудио и видео форматах на Android. Просто поместите любые аудио- и видеофайлы в каталог `Podcasts` и наслаждайтесь просмотром и прослушиванием контента. 
 
 [![](https://github.com/user-attachments/assets/f1bca36d-cfa1-4dc7-929b-9ec809f139b2)](https://github.com/user-attachments/assets/8be1f839-7c49-41cd-9197-063bdfda7699)
