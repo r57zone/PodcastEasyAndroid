@@ -8,8 +8,6 @@
 
 ## Особенности
 - Поддержка следующих языков интерфейса: английский, русский, китайский (упрощённый и традиционный), испанский, португальский (бразильский), французский, немецкий, японский, арабский, итальянский, корейский и турецкий.
-<br>
-
 ![flag-united-kingdom](https://github.com/user-attachments/assets/8c03c9b8-d154-466f-b9c4-6ea60278d537)
 ![flag-russia](https://user-images.githubusercontent.com/9499881/27683795-5b0fbac6-5cd8-11e7-929c-057833e01fb1.png)
 ![flag-china](https://github.com/user-attachments/assets/16848591-2baf-4300-893b-b95d5249a34e)
