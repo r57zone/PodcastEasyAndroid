@@ -26,27 +26,36 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 ![flag-turkey](https://github.com/user-attachments/assets/e18e5455-7321-4632-bf3f-19921b42a7ce)
 
 - Support for the following interface languages: English, Russian, Chinese (Simplified and Traditional), Spanish, Portuguese (Brazilian), French, German, Japanese, Arabic, Italian, Korean and Turkish.
-
-
 - Automatically saves playback progress, allowing you to resume right where you left off.
-
-
 - Adjustable playback speed.
-
-
 - Bookmark support. Create bookmarks directly in the app or import your own. Bookmarks are stored in plain text (TXT) files, with each line containing a timestamp and a title in the `Time - Title` format. For example: `19:47 - Element 115`.
   The text file name must match the name of the corresponding audio or video file.
-
-
 - Built-in video player for video podcasts. If the video doesn't require your constant attention, you can listen to the podcast in the background and tap the video button whenever you want to see what's happening. Double-tap to enlarge the video, and swipe to move it around the screen.
-
-
 - Sleep timer to stop playback automatically.
 
 ## Download
 >Version for Android 9+.
 
 **[Download](https://github.com/r57zone/PodcastEasyAndroid/releases)**
+
+1. Install the [FTP Server](https://play.google.com/store/apps/details?id=net.xnano.android.ftpserver) app by Banana Studio.
+2. In the app settings, enable anonymous access or create an account with a username and password.
+3. In your router settings, reserve a permanent local IP address for the smartphone (by the device's MAC address).
+4. Create a shortcut on the Windows desktop: right-click -> New -> Shortcut and enter one of the following commands:
+
+   For anonymous access:
+   ```cmd
+   %windir%\explorer.exe ftp://192.168.0.101:3725/Podcasts/
+   ```
+
+   For authenticated access:
+   ```cmd
+   %windir%\explorer.exe ftp://login:password@192.168.0.101:3725/Podcasts/
+   ```
+
+   Replace the IP address, port, username, and password with your own values.
+
+5. You can also create an FTP Server widget on the home screen and turn FTP on with one click.
 
 ## Credits
 - [Claude AI](https://claude.ai) – for assistance with development.
