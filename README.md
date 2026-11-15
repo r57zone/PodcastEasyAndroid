@@ -38,6 +38,7 @@ An Android app for playing podcasts and books in audio and video formats. Simply
 
 **[Download](https://github.com/r57zone/PodcastEasyAndroid/releases)**
 
+## Transferring Audio and Video to a Smartphone over Wi-Fi
 1. Install the [FTP Server](https://play.google.com/store/apps/details?id=net.xnano.android.ftpserver) app by Banana Studio.
 2. In the app settings, enable anonymous access or create an account with a username and password.
 3. In your router settings, reserve a permanent local IP address for the smartphone (by the device's MAC address).
