@@ -352,9 +352,12 @@ class MainActivity : BaseActivity() {
     }
 
     private fun updateCount() {
+        val files = adapter.fileCount()
+        // индикатор «Записей: N» виден только если в папке есть хотя бы один файл
+        tvCount.visibility = if (files > 0) View.VISIBLE else View.GONE
         val pct = adapter.listenedPercent()
-        tvCount.text = if (pct == null) getString(R.string.files_count, adapter.fileCount())
-                       else getString(R.string.files_count_pct, adapter.fileCount(), pct)
+        tvCount.text = if (pct == null) getString(R.string.files_count, files)
+                       else getString(R.string.files_count_pct, files, pct)
         tvEmpty.visibility = if (adapter.itemCount == 0) View.VISIBLE else View.GONE
     }
 

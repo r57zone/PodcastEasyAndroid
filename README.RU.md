@@ -3,8 +3,8 @@
 # Podcast Easy Android
 Приложение для прослушивания подкастов и книг в аудио и видео форматах на Android. Просто поместите любые аудио- и видеофайлы в каталог `Podcasts` и наслаждайтесь просмотром и прослушиванием контента. 
 
-[![](https://github.com/user-attachments/assets/f1bca36d-cfa1-4dc7-929b-9ec809f139b2)](https://github.com/user-attachments/assets/8be1f839-7c49-41cd-9197-063bdfda7699)
-[![](https://github.com/user-attachments/assets/86de83b6-111f-48e4-92e4-8f12916d0ace)](https://github.com/user-attachments/assets/3102d499-4757-4cd9-9088-6a81bbf32e0c)
+[![Скриншот светлая тема](https://github.com/user-attachments/assets/a75582af-ceef-415a-ad0e-e260bb1d35e3)](https://github.com/user-attachments/assets/392e8b96-8740-4adb-95e4-5ba63dfd74c9)
+[![Скриншот тёмная тема](https://github.com/user-attachments/assets/4e78b66a-e2e5-4c46-926b-264957b53837)](https://github.com/user-attachments/assets/43d86a13-1462-4201-985f-c2c08af03998)
 
 ## Особенности
 ![flag-united-kingdom](https://github.com/user-attachments/assets/8c03c9b8-d154-466f-b9c4-6ea60278d537)

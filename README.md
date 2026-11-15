@@ -5,8 +5,8 @@
 # Podcast Easy Android
 An Android app for playing podcasts and books in audio and video formats. Simply place any audio or video files in the `Podcasts` directory and enjoy listening to or watching your content.
 
-[![](https://github.com/user-attachments/assets/4260acdb-3aed-498e-acde-430d472d2b30)](https://github.com/user-attachments/assets/d0c905f1-82e7-49a7-94de-ec7942e3fc40)
-[![](https://github.com/user-attachments/assets/75dbad34-13f9-4d98-b640-b718a56360b6)](https://github.com/user-attachments/assets/a4d160d4-bd38-4e4c-91fb-e7dfa4ad1ce3)
+[![Screenshot Light theme](https://github.com/user-attachments/assets/5c06d366-0722-4438-bfaf-69dd1329e8c3)](https://github.com/user-attachments/assets/2a09aac8-f8c1-450a-85af-8a6668e7c1ab)
+[![Screenshot Dark theme](https://github.com/user-attachments/assets/fa3879b6-419f-478b-969c-0b9703fa91a8)](https://github.com/user-attachments/assets/10601352-1298-4d02-9f25-57e278fee8a6)
 
 ## Features
 ![flag-united-kingdom](https://github.com/user-attachments/assets/8c03c9b8-d154-466f-b9c4-6ea60278d537)
